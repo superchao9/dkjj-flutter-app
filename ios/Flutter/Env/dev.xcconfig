@@ -1,0 +1,9 @@
+FLAVOR_NAME=dev
+APP_DISPLAY_NAME=DKJJ Mobile Dev
+BUNDLE_IDENTIFIER=com.dkjj.app.mobile.dev
+APP_ICON_NAME=AppIcon-dev
+# Optional signing variables. Fill when you have real profiles.
+DEVELOPMENT_TEAM=
+CODE_SIGN_STYLE=Automatic
+PROVISIONING_PROFILE_SPECIFIER=
+CODE_SIGN_IDENTITY=iPhone Developer
